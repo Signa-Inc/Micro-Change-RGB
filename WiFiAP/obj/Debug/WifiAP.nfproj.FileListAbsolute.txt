@@ -1,0 +1,282 @@
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\WifiAP.exe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\WifiAP.bin
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\WifiAP.pdb
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\WifiAP.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\WifiAP.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\Iot.Device.DhcpServer.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\mscorlib.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.ResourceManager.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.Runtime.Events.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.Runtime.Native.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.System.Collections.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.System.Text.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Device.Gpio.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Device.Wifi.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.IO.Streams.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Net.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Net.Http.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Threading.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\Iot.Device.DhcpServer.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\mscorlib.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.ResourceManager.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.Runtime.Events.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.Runtime.Native.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.System.Collections.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.System.Text.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Device.Gpio.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Device.Wifi.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.IO.Streams.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Net.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Net.Http.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Threading.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\Iot.Device.DhcpServer.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\mscorlib.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.ResourceManager.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.Runtime.Events.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.Runtime.Native.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.System.Collections.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.System.Text.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Device.Gpio.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Device.Wifi.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.IO.Streams.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Net.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Net.Http.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Threading.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\Iot.Device.DhcpServer.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\mscorlib.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.ResourceManager.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.Runtime.Events.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.Runtime.Native.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.System.Collections.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\nanoFramework.System.Text.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Device.Gpio.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Device.Wifi.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.IO.Streams.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Net.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Net.Http.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\bin\Debug\System.Threading.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\WifiAP.nfproj.AssemblyReference.cache
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\WifiAP.Resources.resources
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\WifiAP.nfproj.GenerateResource.cache
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\WifiAP.Resources.nanoresources
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\WifiAP.nfproj.NanoGenerateResource.Cache
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\WifiAP.nfproj.CoreCompileInputs.cache
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\WifiAP.pe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\WifiAP.pdbx
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\WifiAP.nfproj.Up2Date
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\WifiAP.exe
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\WifiAP.pdb
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\Iot.Device.DhcpServer.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\mscorlib.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\nanoFramework.ResourceManager.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\nanoFramework.Runtime.Events.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\nanoFramework.Runtime.Native.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\nanoFramework.System.Collections.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\nanoFramework.System.Text.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\System.Device.Gpio.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\System.Device.Wifi.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\System.IO.Streams.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\System.Net.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\System.Net.Http.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\System.Threading.dll
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\Iot.Device.DhcpServer.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\mscorlib.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\nanoFramework.ResourceManager.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\nanoFramework.Runtime.Events.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\nanoFramework.Runtime.Native.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\nanoFramework.System.Collections.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\nanoFramework.System.Text.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\System.Device.Gpio.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\System.Device.Wifi.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\System.IO.Streams.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\System.Net.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\System.Net.Http.xml
+E:\ESP 32 ALL INCLUSIVE\Projeсts\Samples-main\samples\WiFiAP\obj\Debug\System.Threading.xml
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\WifiAP.exe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\WifiAP.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\WifiAP.bin
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\WifiAP.pdb
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\WifiAP.pe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\Iot.Device.DhcpServer.pe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\mscorlib.pe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.ResourceManager.pe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Events.pe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Native.pe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.System.Collections.pe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.System.Text.pe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Device.Gpio.pe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Device.Wifi.pe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.IO.Streams.pe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Net.pe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Net.Http.pe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Threading.pe
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\Iot.Device.DhcpServer.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\mscorlib.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.ResourceManager.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Events.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Native.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.System.Collections.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.System.Text.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Device.Gpio.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Device.Wifi.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.IO.Streams.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Net.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Net.Http.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Threading.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\Iot.Device.DhcpServer.dll
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\mscorlib.dll
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.ResourceManager.dll
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Events.dll
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Native.dll
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.System.Collections.dll
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.System.Text.dll
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Device.Gpio.dll
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Device.Wifi.dll
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.IO.Streams.dll
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Net.dll
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Net.Http.dll
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Threading.dll
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\Iot.Device.DhcpServer.xml
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\mscorlib.xml
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.ResourceManager.xml
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Events.xml
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Native.xml
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.System.Collections.xml
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\nanoFramework.System.Text.xml
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Device.Gpio.xml
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Device.Wifi.xml
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.IO.Streams.xml
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Net.xml
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Net.Http.xml
+F:\VS projects\Micro Change RGB\WiFiAP\bin\Debug\System.Threading.xml
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\WifiAP.nfproj.AssemblyReference.cache
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\WifiAP.Resources.resources
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\WifiAP.nfproj.GenerateResource.cache
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\WifiAP.Resources.nanoresources
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\WifiAP.nfproj.NanoGenerateResource.Cache
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\WifiAP.nfproj.CoreCompileInputs.cache
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\WifiAP.pe
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\WifiAP.pdbx
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\WifiAP.nfproj.Up2Date
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\WifiAP.exe
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\WifiAP.pdb
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\Iot.Device.DhcpServer.dll
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\mscorlib.dll
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\nanoFramework.ResourceManager.dll
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\nanoFramework.Runtime.Events.dll
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\nanoFramework.Runtime.Native.dll
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\nanoFramework.System.Collections.dll
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\nanoFramework.System.Text.dll
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.Device.Gpio.dll
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.Device.Wifi.dll
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.IO.Streams.dll
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.Net.dll
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.Net.Http.dll
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.Threading.dll
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\Iot.Device.DhcpServer.xml
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\mscorlib.xml
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\nanoFramework.ResourceManager.xml
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\nanoFramework.Runtime.Events.xml
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\nanoFramework.Runtime.Native.xml
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\nanoFramework.System.Collections.xml
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\nanoFramework.System.Text.xml
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.Device.Gpio.xml
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.Device.Wifi.xml
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.IO.Streams.xml
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.Net.xml
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.Net.Http.xml
+F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.Threading.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\WifiAP.exe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\WifiAP.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\WifiAP.bin
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\WifiAP.pdb
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\WifiAP.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\Iot.Device.DhcpServer.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\mscorlib.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.ResourceManager.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Events.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Native.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.System.Collections.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.System.Text.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Device.Gpio.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Device.Wifi.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.IO.Streams.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Net.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Net.Http.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Threading.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\Iot.Device.DhcpServer.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\mscorlib.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.ResourceManager.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Events.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Native.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.System.Collections.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.System.Text.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Device.Gpio.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Device.Wifi.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.IO.Streams.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Net.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Net.Http.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Threading.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\Iot.Device.DhcpServer.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\mscorlib.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.ResourceManager.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Events.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Native.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.System.Collections.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.System.Text.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Device.Gpio.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Device.Wifi.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.IO.Streams.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Net.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Net.Http.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Threading.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\Iot.Device.DhcpServer.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\mscorlib.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.ResourceManager.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Events.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.Runtime.Native.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.System.Collections.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.System.Text.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Device.Gpio.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Device.Wifi.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.IO.Streams.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Net.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Net.Http.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\System.Threading.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\WifiAP.nfproj.AssemblyReference.cache
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\WifiAP.Resources.resources
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\WifiAP.nfproj.GenerateResource.cache
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\WifiAP.Resources.nanoresources
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\WifiAP.nfproj.NanoGenerateResource.Cache
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\WifiAP.nfproj.CoreCompileInputs.cache
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\WifiAP.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\WifiAP.pdbx
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\WifiAP.nfproj.Up2Date
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\WifiAP.exe
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\WifiAP.pdb
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\Iot.Device.DhcpServer.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\mscorlib.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\nanoFramework.ResourceManager.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\nanoFramework.Runtime.Events.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\nanoFramework.Runtime.Native.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\nanoFramework.System.Collections.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\nanoFramework.System.Text.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\System.Device.Gpio.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\System.Device.Wifi.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\System.IO.Streams.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\System.Net.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\System.Net.Http.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\System.Threading.dll
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\Iot.Device.DhcpServer.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\mscorlib.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\nanoFramework.ResourceManager.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\nanoFramework.Runtime.Events.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\nanoFramework.Runtime.Native.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\nanoFramework.System.Collections.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\nanoFramework.System.Text.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\System.Device.Gpio.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\System.Device.Wifi.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\System.IO.Streams.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\System.Net.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\System.Net.Http.xml
+F:\VS projects\Micro-Change-RGB\WiFiAP\obj\Debug\System.Threading.xml

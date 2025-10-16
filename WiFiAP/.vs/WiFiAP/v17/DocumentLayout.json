@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VS projects\\Micro-Change-RGB\\WiFiAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{275E5F0E-3692-4CE2-BCF0-76857914F866}|WifiAP.nfproj|f:\\vs projects\\micro-change-rgb\\wifiap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275E5F0E-3692-4CE2-BCF0-76857914F866}|WifiAP.nfproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275E5F0E-3692-4CE2-BCF0-76857914F866}|WifiAP.nfproj|f:\\vs projects\\micro-change-rgb\\wifiap\\wirelessap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275E5F0E-3692-4CE2-BCF0-76857914F866}|WifiAP.nfproj|solutionrelative:wirelessap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275E5F0E-3692-4CE2-BCF0-76857914F866}|WifiAP.nfproj|f:\\vs projects\\micro-change-rgb\\wifiap\\wireless80211.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275E5F0E-3692-4CE2-BCF0-76857914F866}|WifiAP.nfproj|solutionrelative:wireless80211.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275E5F0E-3692-4CE2-BCF0-76857914F866}|WifiAP.nfproj|f:\\vs projects\\micro-change-rgb\\wifiap\\webserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275E5F0E-3692-4CE2-BCF0-76857914F866}|WifiAP.nfproj|solutionrelative:webserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275E5F0E-3692-4CE2-BCF0-76857914F866}|WifiAP.nfproj|f:\\vs projects\\micro-change-rgb\\wifiap\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275E5F0E-3692-4CE2-BCF0-76857914F866}|WifiAP.nfproj|solutionrelative:resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WirelessAP.cs",
+              "DocumentMoniker": "F:\\VS projects\\Micro-Change-RGB\\WiFiAP\\WirelessAP.cs",
+              "RelativeDocumentMoniker": "WirelessAP.cs",
+              "ToolTip": "F:\\VS projects\\Micro-Change-RGB\\WiFiAP\\WirelessAP.cs",
+              "RelativeToolTip": "WirelessAP.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAYwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:55:39.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wireless80211.cs",
+              "DocumentMoniker": "F:\\VS projects\\Micro-Change-RGB\\WiFiAP\\Wireless80211.cs",
+              "RelativeDocumentMoniker": "Wireless80211.cs",
+              "ToolTip": "F:\\VS projects\\Micro-Change-RGB\\WiFiAP\\Wireless80211.cs",
+              "RelativeToolTip": "Wireless80211.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:55:39.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebServer.cs",
+              "DocumentMoniker": "F:\\VS projects\\Micro-Change-RGB\\WiFiAP\\WebServer.cs",
+              "RelativeDocumentMoniker": "WebServer.cs",
+              "ToolTip": "F:\\VS projects\\Micro-Change-RGB\\WiFiAP\\WebServer.cs",
+              "RelativeToolTip": "WebServer.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAkwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:55:39.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "F:\\VS projects\\Micro-Change-RGB\\WiFiAP\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Resources.Designer.cs",
+              "ToolTip": "F:\\VS projects\\Micro-Change-RGB\\WiFiAP\\Resources.Designer.cs",
+              "RelativeToolTip": "Resources.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:55:38.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\VS projects\\Micro-Change-RGB\\WiFiAP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\VS projects\\Micro-Change-RGB\\WiFiAP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:55:38.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
