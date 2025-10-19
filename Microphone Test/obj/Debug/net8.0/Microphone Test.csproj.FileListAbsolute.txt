@@ -85,3 +85,4 @@ F:\VS projects\Micro-Change-RGB\Microphone Test\obj\Debug\net8.0\refint\Micropho
 F:\VS projects\Micro-Change-RGB\Microphone Test\obj\Debug\net8.0\Microphone Test.pdb
 F:\VS projects\Micro-Change-RGB\Microphone Test\obj\Debug\net8.0\Microphone Test.genruntimeconfig.cache
 F:\VS projects\Micro-Change-RGB\Microphone Test\obj\Debug\net8.0\ref\Microphone Test.dll
+F:\VS projects\Micro-Change-RGB\Microphone Test\obj\Debug\net8.0\Microphone Test.sourcelink.json

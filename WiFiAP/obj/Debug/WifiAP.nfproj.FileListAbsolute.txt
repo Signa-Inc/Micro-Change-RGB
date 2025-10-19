@@ -187,10 +187,10 @@ F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.Net.xml
 F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.Net.Http.xml
 F:\VS projects\Micro Change RGB\WiFiAP\obj\Debug\System.Threading.xml
 F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\WifiAP.exe
-F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\WifiAP.pdbx
 F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\WifiAP.bin
 F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\WifiAP.pdb
 F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\WifiAP.pe
+F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\WifiAP.pdbx
 F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\Iot.Device.DhcpServer.pe
 F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\mscorlib.pe
 F:\VS projects\Micro-Change-RGB\WiFiAP\bin\Debug\nanoFramework.ResourceManager.pe

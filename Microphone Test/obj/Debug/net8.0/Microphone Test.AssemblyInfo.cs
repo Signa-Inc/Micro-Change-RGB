@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Microphone Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ebc0650a3a56a19b6e52f23676bea305c311a8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+364e0c7251ed59ffb3fe0db8375ded9ab9a53d40")]
 [assembly: System.Reflection.AssemblyProductAttribute("Microphone Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Microphone Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

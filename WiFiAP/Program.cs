@@ -45,7 +45,10 @@ namespace WifiAP
             greenLed = gpio.OpenPin(GreenPin, PinMode.Output);
             blueLed = gpio.OpenPin(BluePin, PinMode.Output);
 
+            SetRgbColor(false, true, false);
+            Thread.Sleep(1000);
             SetRgbColor(false, false, false);
+
             Debug.WriteLine("RGB LED initialized.");
         }
 

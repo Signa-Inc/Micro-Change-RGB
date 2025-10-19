@@ -11,7 +11,7 @@ namespace VoiceToRgbControl
     class Program
     {
         // IP ESP32 в вашей Wi-Fi сети
-        const string EspIp = "192.168.0.115"; // <- Укажи IP, который ESP32 получил после подключения к Wi-Fi
+        const string EspIp = "192.168.0.248"; // <- Укажи IP, который ESP32 получил после подключения к Wi-Fi
 
         static HttpClient httpClient = new HttpClient();
 
